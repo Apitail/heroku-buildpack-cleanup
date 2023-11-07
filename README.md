@@ -7,7 +7,7 @@ The maximum allowed Heroku slug size (after compression) is 300MB. Image-heavy a
 ## Usage
 
 ```bash
-$ heroku buildpacks:set [https://github.com/leoafarias/heroku-buildpack-node-modules-cleanup](https://github.com/Apitail/heroku-buildpack-cleanup)
+$ heroku buildpacks:set https://github.com/leoafarias/heroku-buildpack-node-modules-cleanup
 ```
 
 ## Documentation
